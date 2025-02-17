@@ -23,9 +23,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
+5. 🔗 [Assets](#links)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -1001,15 +999,4 @@ declare interface ShareInputProps {
 - Assets used in the project can be found [here](https://drive.google.com/file/d/1NCQH7HNXjfZMQ1MzpX3uRCixSY32iWl2/view?usp=sharing)
 - [Watch Next.js 15 Crash Course ](https://www.youtube.com/watch?v=Zq5fmkH0T78)
 
-## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next15" target="_blank">
-   <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Project Banner">
-</a>
-
-#
